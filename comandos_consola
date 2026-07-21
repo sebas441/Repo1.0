@@ -22,4 +22,5 @@ git add . = es para subir todos los archivos y no poner uno por uno.
 git commit -m "cualquier cosa" = se usa para crear un commit. 
 git push -u origin main = se usa para subirlo a el github.
 git pull = el nos ayuda a subir los cambios.
-
+git fetch = descarga los archivos. 
+git merge = fusiona los archivos a tu trabajo.
