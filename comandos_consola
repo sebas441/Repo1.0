@@ -21,4 +21,5 @@ git add archivo = agrega el archivo y al poner git status aparecera listo para s
 git add . = es para subir todos los archivos y no poner uno por uno.
 git commit -m "cualquier cosa" = se usa para crear un commit. 
 git push -u origin main = se usa para subirlo a el github.
-git pull = subir tambien como el push.
+git pull = el nos ayuda a subir los cambios.
+
